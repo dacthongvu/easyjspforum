@@ -1,7 +1,7 @@
 # easyjspforum
 Easy JSP Forum is a community forum developed with JSP technology of all features of a standard web-based forum. It is easy to deploy on any web container such as Tomcat and can be integrated with any SQL database system.
 
-Installation instruction:
+Installation instructions:
 
 For testing purpose the project is currently written to support Microsoft Access.
 More database support will be available soon as the project is being developed.
